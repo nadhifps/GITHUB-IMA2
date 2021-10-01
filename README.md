@@ -1,2 +1,2 @@
-# cd-C-MATERI-RPLA-JAVA
+# GITHUB-IMA2
 tugas praktikum 2
