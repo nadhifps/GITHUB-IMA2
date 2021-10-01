@@ -1,2 +1,2 @@
 # GITHUB-IMA2
-tugas praktikum 2
+journal 2
